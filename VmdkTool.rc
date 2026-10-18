@@ -1,0 +1,11 @@
+#include "Resource.h"
+#include <windows.h>
+
+IDI_MAIN ICON "res\\app.ico"
+
+// Optional embedded portable tool (5 files)
+//IDR_VDISKMGR        RCDATA "res\\portable\\vmware-vdiskmanager.exe"
+//IDR_VDISKMGR_BASE   RCDATA "res\\portable\\libeay32.dll"
+//IDR_VDISKMGR_CRYPTO RCDATA "res\\portable\\ssleay32.dll"
+//IDR_VDISKMGR_SSL    RCDATA "res\\portable\\zlib1.dll"
+//IDR_VMWAREBASE      RCDATA "res\\portable\\vmwarebase.dll"
